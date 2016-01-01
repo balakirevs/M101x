@@ -29,6 +29,6 @@ and karma gives you the below output:
 
 ```
 LOG: 'Tests Succeeded! Copy/paste the below code to complete this assignment:'
-LOG: '<secret code here>'
+LOG: 'ionic bonds'
 Chrome 43.0.2357 (Linux): Executed 4 of 4 SUCCESS (0.21 secs / 0.126 secs)
 ```
